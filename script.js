@@ -8,9 +8,9 @@ const CONFIG = {
     // -------------------------------------------------------------
     // 1. RECIPIENT & SENDER DETAILS
     // -------------------------------------------------------------
-    recipientName: "Tittu",                  // Recipient's beloved nickname
+    recipientName: "Iram",                  // Recipient's beloved nickname
     senderName: "Abdul Rehman",              // Sender name
-    relationshipStartDate: "2026-09-06",     // Format: YYYY-MM-DD (used for Eternity Counter)
+    relationshipStartDate: "2026-08-14",     // Format: YYYY-MM-DD (used for Eternity Counter)
 
     // -------------------------------------------------------------
     // 2. SCENE 1: MYSTERIOUS INTRO
@@ -23,45 +23,45 @@ const CONFIG = {
     suspenseWhispers: [
         "In all of time, and across all of space...",
         "Out of eight billion people on this planet...",
-        "My entire universe gravitated towards you, Tittu."
+        "My entire universe gravitated towards you, Iram."
     ],
 
     // -------------------------------------------------------------
     // 4. SCENE 3: OUR LITTLE UNIVERSE
     // -------------------------------------------------------------
-    universeMainQuote: "In a universe of billions of souls, my heart found its home in you, Tittu.",
+    universeMainQuote: "In a universe of billions of souls, my heart found its home in you, Iram.",
 
     // -------------------------------------------------------------
     // 5. SCENE 4: OUR STORY CHAPTERS
     // -------------------------------------------------------------
     beginning: {
         dateBadge: "When Our Paths Crossed",
-        headline: "The Day Tittu Stepped Into My Life",
-        bodyText: "Before you came along, Tittu, days passed by in their usual quiet cadence. But from the moment we first talked, every hour began to carry a spark of warmth I had never felt before.",
-        secretReflection: "I still remember our first talks, that laugh of yours that caught me off guard, and the quiet realization that my heart had already chosen you, Tittu.",
+        headline: "The Day Iram Stepped Into My Life",
+        bodyText: "Before you came along, Iram, days passed by in their usual quiet cadence. But from the moment we first talked, every hour began to carry a spark of warmth I had never felt before.",
+        secretReflection: "I still remember our first talks, that laugh of yours that caught me off guard, and the quiet realization that my heart had already chosen you, Iram.",
         timestamp: "Preserved Forever in Memory"
     },
 
     littleThings: [
         {
             icon: "🌸",
-            title: "The Sound of Tittu's Laughter",
-            text: "A melody that instantly lights up my darkest days. Hearing you genuinely laugh, Tittu, is my absolute favorite sound in this universe."
+            title: "The Sound of Iram's Laughter",
+            text: "A melody that instantly lights up my darkest days. Hearing you genuinely laugh, Iram, is my absolute favorite sound in this universe."
         },
         {
             icon: "✨",
             title: "The Kindness in Your Eyes",
-            text: "There is an unspoken gentleness in the way you look at the world, Tittu a purity of heart that makes everything feel so peaceful."
+            text: "There is an unspoken gentleness in the way you look at the world, Iram a purity of heart that makes everything feel so peaceful."
         },
         {
             icon: "🌙",
             title: "Our Late Night Conversations",
-            text: "When the whole world is asleep, sharing our innermost thoughts, silly jokes, and quiet vulnerabilities until hours feel like seconds with you, Tittu."
+            text: "When the whole world is asleep, sharing our innermost thoughts, silly jokes, and quiet vulnerabilities until hours feel like seconds with you, Iram."
         },
         {
             icon: "🕊️",
             title: "The Peace You Bring Me",
-            text: "With you, Tittu, I never have to wear a mask or pretend. Your presence is the quiet sanctuary my soul was always searching for."
+            text: "With you, Iram, I never have to wear a mask or pretend. Your presence is the quiet sanctuary my soul was always searching for."
         }
     ],
 
@@ -71,16 +71,16 @@ const CONFIG = {
             title: "Under The Same Sky",
             date: "A Quiet Magical Evening",
             image: "img/pic (2).jpeg",
-            snippet: "Looking at the sky with Tittu and realizing no star compared to you.",
-            fullStory: "We were talking as the night deepened, sharing thoughts neither of us usually spoke out loud. That was the evening I realized home isn't a place it's a person, and for me, Tittu, it has always been you."
+            snippet: "Looking at the sky with Iram and realizing no star compared to you.",
+            fullStory: "We were talking as the night deepened, sharing thoughts neither of us usually spoke out loud. That was the evening I realized home isn't a place it's a person, and for me, Iram, it has always been you."
         },
         {
             emoji: "☕",
             title: "Endless Little Moments",
             date: "Golden Hours",
             image: "img/pic (1).jpeg",
-            snippet: "Where time stopped, and laughing with Tittu made everything right.",
-            fullStory: "Those spontaneous moments where we laughed until our stomachs hurt. It was never about what we were doing, but simply sharing the same space with you, Tittu, and feeling completely at peace."
+            snippet: "Where time stopped, and laughing with Iram made everything right.",
+            fullStory: "Those spontaneous moments where we laughed until our stomachs hurt. It was never about what we were doing, but simply sharing the same space with you, Iram, and feeling completely at peace."
         },
         {
             emoji: "🕊️",
@@ -88,41 +88,41 @@ const CONFIG = {
             date: "A Quiet Promise",
             image: "img/pic (3).jpeg",
             snippet: "When words weren't needed, and your presence was everything.",
-            fullStory: "On the difficult days when the world felt heavy, you didn't have to fix everything, Tittu. Just knowing you were there, holding space for me with unconditional patience, healed things words never could."
+            fullStory: "On the difficult days when the world felt heavy, you didn't have to fix everything, Iram. Just knowing you were there, holding space for me with unconditional patience, healed things words never could."
         }
     ],
 
     reasons: [
         {
             title: "Your Genuine Soul",
-            text: "In a world where so many people put on masks, you remain effortlessly honest, profoundly caring, and deeply true to who you are, Tittu."
+            text: "In a world where so many people put on masks, you remain effortlessly honest, profoundly caring, and deeply true to who you are, Iram."
         },
         {
             title: "How Safe You Make Me Feel",
-            text: "Around you, Tittu, my guard completely drops. You provide a comforting refuge where my fears dissolve into quiet calm."
+            text: "Around you, Iram, my guard completely drops. You provide a comforting refuge where my fears dissolve into quiet calm."
         },
         {
             title: "Your Unmatched Compassion",
-            text: "The way you notice small details, the way you care about feelings, and how you spread warmth, Tittu, without expecting anything in return."
+            text: "The way you notice small details, the way you care about feelings, and how you spread warmth, Iram, without expecting anything in return."
         },
         {
             title: "The Light You Bring",
-            text: "Even on my gloomiest days, a single word or text from you, Tittu, feels like dawn breaking over a dark horizon."
+            text: "Even on my gloomiest days, a single word or text from you, Iram, feels like dawn breaking over a dark horizon."
         },
         {
             title: "Your Beautiful Mind",
-            text: "Talking to you is an adventure. Your perspective, your wisdom, and your emotional depth continually amaze and inspire me, Tittu."
+            text: "Talking to you is an adventure. Your perspective, your wisdom, and your emotional depth continually amaze and inspire me, Iram."
         },
         {
-            title: "Simply Being Tittu",
-            text: "You don't have to try to be extraordinary; just being yourself, my sweetest Tittu, is more than enough to capture my entire heart."
+            title: "Simply Being Iram",
+            text: "You don't have to try to be extraordinary; just being yourself, my sweetest Iram, is more than enough to capture my entire heart."
         }
     ],
 
     foreverVow: {
         heading: "Hold To Sync Our Heartbeats",
-        message: "No matter where life leads us, Tittu, no matter the distance or how many seasons turn, my fondness, respect, and unconditional love for you will remain constantl ike the North Star guiding a sailor home.",
-        signature: "— Forever devoted to Tittu"
+        message: "No matter where life leads us, Iram, no matter the distance or how many seasons turn, my fondness, respect, and unconditional love for you will remain constantl ike the North Star guiding a sailor home.",
+        signature: "— Forever devoted to Iram"
     },
 
     // -------------------------------------------------------------
@@ -130,12 +130,12 @@ const CONFIG = {
     // -------------------------------------------------------------
     letter: {
         date: "In the quiet of our eternity",
-        greeting: "My Dearest Tittu,",
-        body: `I have sat down to write this a hundred times, Tittu, and every time, ordinary words felt inadequate to capture what you truly mean to me.
+        greeting: "My Dearest Iram,",
+        body: `I have sat down to write this a hundred times, Iram, and every time, ordinary words felt inadequate to capture what you truly mean to me.
 
 From the moment our lives intertwined, you brought a gentle radiance into my world that I never knew was missing. You taught me that true connection isn't loud or demanding—it is soft, patient, understanding, and enduring.
 
-Thank you, Tittu, for every smile you've given me, for every quiet reassurance, for every shared laugh, and for simply being the most wonderful person I have ever had the blessing of knowing.
+Thank you, Iram, for every smile you've given me, for every quiet reassurance, for every shared laugh, and for simply being the most wonderful person I have ever had the blessing of knowing.
 
 I promise to cherish you, to honor the bond we share, and to stand beside you through every season that tomorrow brings.`,
         closing: "Yours in every breath and lifetime,",
@@ -146,8 +146,8 @@ I promise to cherish you, to honor the bond we share, and to stand beside you th
     // 7. SCENE 6: THE FINAL SURPRISE & CLIMAX
     // -------------------------------------------------------------
     finalClimax: {
-        heading: "Tittu, You Are My Greatest Blessing",
-        quote: "If I had to live a thousand lifetimes, Tittu, I would search the universe in every single one, just to find you all over again."
+        heading: "Iram, You Are My Greatest Blessing",
+        quote: "If I had to live a thousand lifetimes, Iram, I would search the universe in every single one, just to find you all over again."
     }
 };
 
@@ -341,7 +341,7 @@ class RomanticSoundscape {
         const btn = document.getElementById('audio-toggle');
         const status = document.getElementById('audio-status');
         btn?.classList.add('playing', 'climax-active');
-        if (status) status.textContent = '🎵 Song: For Tittu';
+        if (status) status.textContent = '🎵 Song: For Iram';
     }
 
     restoreFromClimax(climaxAudio, duration = 1200) {
@@ -971,7 +971,7 @@ function generateAndDownloadKeepsake(type = 'letter') {
 
     ctx.fillStyle = 'rgba(251, 207, 232, 0.7)';
     ctx.font = 'italic 18px "Cormorant Garamond", Georgia, serif';
-    ctx.fillText('An Eternal Memory Crafted for Tittu', 600, 165);
+    ctx.fillText('An Eternal Memory Crafted for Iram', 600, 165);
 
     // Divider
     ctx.strokeStyle = 'rgba(244, 114, 182, 0.4)';
@@ -994,7 +994,7 @@ function generateAndDownloadKeepsake(type = 'letter') {
         ctx.textAlign = 'left';
         ctx.fillStyle = '#ffffff';
         ctx.font = '600 34px "Cinzel", Georgia, serif';
-        ctx.fillText(CONFIG.letter.greeting || 'My Beloved Tittu,', 120, 340);
+        ctx.fillText(CONFIG.letter.greeting || 'My Beloved Iram,', 120, 340);
 
         // Word wrap body text
         const text = CONFIG.letter.body;
@@ -1049,12 +1049,12 @@ function generateAndDownloadKeepsake(type = 'letter') {
         ctx.font = 'italic 30px "Cormorant Garamond", Georgia, serif';
         ctx.fillText('With every beat of my heart, today and forever...', 600, 320);
 
-        // Huge Glowing "I LOVE YOU, Tittu"
+        // Huge Glowing "I LOVE YOU, Iram"
         ctx.fillStyle = '#ffffff';
         ctx.shadowColor = 'rgba(244, 63, 94, 0.9)';
         ctx.shadowBlur = 35;
         ctx.font = '900 68px "Cinzel", Georgia, serif';
-        ctx.fillText('I LOVE YOU, Tittu', 600, 480);
+        ctx.fillText('I LOVE YOU, Iram', 600, 480);
         ctx.shadowBlur = 0;
 
         // Big Heart Emblem
@@ -1111,7 +1111,7 @@ function generateAndDownloadKeepsake(type = 'letter') {
     // Trigger Download
     try {
         const link = document.createElement('a');
-        link.download = type === 'letter' ? 'A_Story_For_Tittu_Letter_Keepsake.png' : 'I_Love_You_Tittu_Keepsake.png';
+        link.download = type === 'letter' ? 'A_Story_For_Iram_Letter_Keepsake.png' : 'I_Love_You_Iram_Keepsake.png';
         link.href = canvas.toDataURL('image/png');
         document.body.appendChild(link);
         link.click();
@@ -1523,7 +1523,7 @@ class RomanticExperienceApp {
                             navigator.vibrate([100, 50, 120, 50, 200, 80, 300]);
                         } catch (e) {}
                     }
-                    showRomanticToast("💓 Our heartbeats are synchronized forever, Tittu.");
+                    showRomanticToast("💓 Our heartbeats are synchronized forever, Iram.");
                 }
             }, 40);
         };
@@ -1600,7 +1600,7 @@ class RomanticExperienceApp {
         if (!parentBtn) return;
         const badge = document.createElement('div');
         badge.className = 'wish-floating-badge';
-        badge.textContent = '+1 Starlight Wish for Tittu ✨';
+        badge.textContent = '+1 Starlight Wish for Iram ✨';
         parentBtn.parentElement?.appendChild(badge);
         setTimeout(() => badge.remove(), 1200);
     }
@@ -1612,22 +1612,22 @@ class RomanticExperienceApp {
         const btnAmbient = document.getElementById('btn-ambient-mode');
 
         // Persistent Starlight Wishes counter via LocalStorage
-        const savedWishes = localStorage.getItem('Tittu_starlight_wishes');
+        const savedWishes = localStorage.getItem('Iram_starlight_wishes');
         this.wishCount = savedWishes !== null ? parseInt(savedWishes, 10) : 0;
         if (wishCountEl) wishCountEl.textContent = this.wishCount;
 
         btnWish?.addEventListener('click', () => {
             this.wishCount++;
-            localStorage.setItem('Tittu_starlight_wishes', this.wishCount);
+            localStorage.setItem('Iram_starlight_wishes', this.wishCount);
             if (wishCountEl) wishCountEl.textContent = this.wishCount;
             this.canvas.burstCelebration();
             this.soundscape.playChime();
             this.spawnWishBadge(btnWish);
         });
 
-        // Grand Climax Confession: I LOVE YOU Tittu
+        // Grand Climax Confession: I LOVE YOU Iram
         const btnConfession = document.getElementById('btn-final-confession');
-        const loveOverlay = document.getElementById('Tittu-love-overlay');
+        const loveOverlay = document.getElementById('Iram-love-overlay');
         const btnCloseLove = document.getElementById('btn-close-love-overlay');
         const loveBackdrop = document.getElementById('love-overlay-backdrop');
         const climaxAudio = document.getElementById('special-climax-audio');
